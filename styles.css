@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    text-align:center;
+}
+body{
+    background-color:#618965;
+}
+p{
+    color:white;
+    font-family: 'Didact Gothic', sans-serif;
+}
+ul{
+    font-family: 'Comfortaa', cursive;
+    color:white;
+}
+img{
+        width:250px;
+}
+html:hover {
+  background: #f44242;
+}
+
+html:hover h1 {
+  color: green;
+}
